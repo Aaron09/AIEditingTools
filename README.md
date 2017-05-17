@@ -1,2 +1,2 @@
 # AIEditingTools
-Tools for automatically photos using AI and OpenCV
+Tools for automatically editing photos using AI and OpenCV
